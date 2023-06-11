@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://oksahil.github.io/command-project-12",
+  "homepage": "https://alex-od-ua.github.io/command-project-3d-studio/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-project-12/"
+    "build": "parcel build src/*.html --public-url /command-project-3d-studio/"
   },
   "repository": {
     "type": "git",
